@@ -1,3 +1,5 @@
 *.meta
 /Temp
 /Library
+.DS_Store
+.idea
