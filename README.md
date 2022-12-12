@@ -8,6 +8,6 @@ Inspired by a (now-disappeared) video that [this one](https://www.youtube.com/wa
 
 <img src="img/drawinggallery.png" width="310" height="280" />
 
-I implemented my drawn model in Blender, then added animations. Other than the model, I kept everything pretty bare-bones.
+I implemented my drawn model in Blender, then added animations. I kept everything pretty bare-bones.
 
 <img src="img/bigvideo.gif" width="720" height="450" />
