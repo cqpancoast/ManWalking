@@ -1,2 +1,13 @@
-# ManWalking
-Over winter break, I got bored. I had a little previous Unity experience, but was sick of tutorials, and so decided to strike out on my own. My goal was to create a 3D figure in Blender and then have him walk around, but I got much further than that.
+# ManWalking: Ultra-Basic Platformer Demo
+
+Platformer demo I made in Unity over winter break, 2018.
+
+![Running around, grabbing crystals, opening a door.](img/smallvideo.gif)
+
+Inspired by a (now-disappeared) video that [this one](https://www.youtube.com/watch?v=S36CH4cbW1A) includes first in its compilation, I wanted to know how I would go about making a basic 3D platformer.
+
+![Gallery image of models](img/drawinggallery.png)
+
+I implemented my drawn model in Blender, then added animations. Other than the model, I kept everything pretty bare-bones.
+
+![Full animation cycle](img/bigvideo.gif)
