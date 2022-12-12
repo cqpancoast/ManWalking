@@ -10,4 +10,4 @@ Inspired by a (now-disappeared) video that [this one](https://www.youtube.com/wa
 
 I implemented my drawn model in Blender, then added animations. Other than the model, I kept everything pretty bare-bones.
 
-<img src="img/bigpicture.png" width="700" height="450" />
+<img src="img/bigvideo.gif" width="720" height="450" />
