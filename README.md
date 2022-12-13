@@ -13,5 +13,11 @@ Inspired by a (now-disappeared) video that [this one](https://www.youtube.com/wa
 <img src="img/bigvideo.gif" width="720" height="450" />
 
 - Create other objects directly in Unity (keys, crystals, walls in top video)
-
 - Control the player and the behavior of objects by attaching C# scripts with access to object properties
+
+### Possible extensions
+
+- Better camera control— "press Z to move to shoulder/focus on a point far away"
+- Levels with more difficult platforming
+- More complex environment behavior— for example, a door which opens when certain crystals have been collected, but not others
+- Enemies with basic AI
